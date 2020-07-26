@@ -32,6 +32,7 @@
 	<g filter="url(#filter0_d)">
 	<rect x="138.5" y="140.5" width="536" height="108" rx="7.5" stroke="#E8E8E8" stroke-width="5" class="rect"/>
 	</g>
+	<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Tanisha Sabherwal</text>
 	<defs>
 		<filter id="filter0_d" x="132" y="132" width="549" height="121" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 		<feFlood flood-opacity="0" result="BackgroundImageFix"/>
