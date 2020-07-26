@@ -5,9 +5,14 @@
             stroke-dashoffset:1300;
             animation:round 2.5s infinite;
           }
+          .header{
+                font: bold 24px sans-serif;
+            }
+          .p{
+            font: normal 12px sans-serif;
+          }
           text{
             fill:#E8E8E8;
-            font: bold 24px sans-serif;
             fill-opacity:0.9;
             animation:display 2.5s infinite;
           }
@@ -30,9 +35,10 @@
     </style>
 	<rect width="800" height="400" fill="#1B1B1B"/>
 	<g filter="url(#filter0_d)">
-	<rect x="138.5" y="140.5" width="536" height="108" rx="7.5" stroke="#E8E8E8" stroke-width="5" class="rect"/>
+	<rect x="138.5" y="138" width="536" height="108" rx="7.5" stroke="#E8E8E8" stroke-width="5" class="rect"/>
 	</g>
-	<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Tanisha Sabherwal</text>
+	<text x="50%" y="45%" class="header" dominant-baseline="middle" text-anchor="middle">This is not a GIF</text>
+  	<text x="50%" y="50%" class="p" dominant-baseline="middle" text-anchor="middle">It is plain SVG and some pinch of CSS</text>
 	<defs>
 		<filter id="filter0_d" x="132" y="132" width="549" height="121" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 		<feFlood flood-opacity="0" result="BackgroundImageFix"/>
